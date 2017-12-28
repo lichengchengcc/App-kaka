@@ -2,7 +2,7 @@
   "name": "iphone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lichengchengcc.github.io/App-kaka",
+  "homepage": "http://lichengchengcc.github.io/app-kaka",
   "dependencies": {
     "antd": "^3.0.2",
     "gh-pages": "^1.1.0",
